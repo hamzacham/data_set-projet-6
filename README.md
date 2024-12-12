@@ -10,6 +10,7 @@ tels que les genres les plus populaires, les pays produisant le plus de films, o
 un travail intérressant de la manipulation de donnée avec des graphiques explicative 
 en répondant a ce qui suit ;
 1)Discuter de 4 observations reliées à la variable « Note » avec des graphiques jugés pertinents.
+
 2) Élaborer un modèle prédictif de la variable « Note » en discutant de la méthodologie et des résultats. 
 Au moins trois modèles distincts devraient être développés pour parvenir au choix du modèle.
 Ces modèles doivent faire des prédictions d’une variable numérique et non une variable catégorielle.
