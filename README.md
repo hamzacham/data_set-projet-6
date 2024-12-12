@@ -5,7 +5,9 @@ Ce projet est une analyse exploratoire de données basée sur un jeu de données
 Le dataset contient des informations détaillées sur les films, incluant des variables comme le titre, 
 la date de sortie, le genre, la durée, les notes et le nombre de votes.
 un travail intérressant de la manipulation de donnée avec des graphiques explicative 
-en répondant a ce qui suit ;
+en répondant a ce qui suit ;                                                                                        
+
+
 1)Discuter de 4 observations reliées à la variable « Note » avec des graphiques jugés pertinents.
 
 2) Élaborer un modèle prédictif de la variable « Note » en discutant de la méthodologie et des résultats. 
